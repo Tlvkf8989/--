@@ -1,0 +1,97 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.canvers {
+  position: relative;
+  width: 500px;
+  height: 500px;
+  background-color: aquamarine;
+}
+.block {
+  position: absolute;
+}
+.yellow {
+  background-color: yellow;
+  border: 5px solid black;
+  width: 100px;
+  height: 50px; 
+  }
+.red {
+  background-color: red;
+  border: 5px solid black;
+  width: 100px;
+  height: 100px;
+  top: 55px;
+  left: 105px;
+}
+.blue {
+  background-color: blue;
+  border: 5px solid black;
+  width: 200px;
+  height: 200px;
+  top: 160px;
+  left: 210px;
+}
+.yellow1 {
+  background-color: yellow;
+  border: 5px solid black;
+  width: 205px;
+  height: 125px;
+  top: 368px;
+}
+.pink {
+  background-color: pink;
+  border: 5px solid black;
+  width: 73px;
+  height: 125px;
+  top: 368px;
+  left: 418px;
+}
+.yellow2 {
+  background-color: yellow;
+  width: 281px;
+  height: 25px;
+  border: 5px solid black;
+  top: 55px;
+  left: 210px;
+}
+.red1 {
+  background-color: red;
+  width: 205px;
+  height: 25px;
+  border: 5px solid black;
+  top: 340px;
+}
+.red2 {
+  background-color: red;
+  width: 25px;
+  height: 125px;
+  border: 5px solid black;
+  top: 368px;
+  left: 300px;
+}
+.pink1 {
+  background-color: pink;
+  width: 100px;
+  height: 175px;
+  border: 5px solid black;
+  top: 160px;
+}
+.blue1 {
+  background-color: blue;
+  width: 281px;
+  height: 50px;
+  border: 5px solid black;
+  left: 210px;
+}
+.pink2 {
+  background-color: pink;
+  width: 77px;
+  height: 70px;
+  border: 5px solid black;
+  top: 85px;
+  left: 415px;
+}
